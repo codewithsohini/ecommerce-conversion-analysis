@@ -165,4 +165,4 @@ The strongest analytical signal identified was the association between product r
 
 **Sohini Dutta**  
 B.Sc. Data Science  
-NSHM Knowledge Campus Kolkata
+NSHM College of Management and Technology, Kolkata
